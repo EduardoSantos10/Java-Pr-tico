@@ -15,6 +15,7 @@ public class MinhaClass {
         
     }
     
+    
 }
 
 /* DECLARAÇÕES INVÁLIDAS
@@ -24,8 +25,7 @@ public class MinhaClass {
  *  int long = 1; LONG faz parte das palavras reservadas da ling.
  */
 
-
- /* DECLARAÇÕES VÁLIDAS (Corrigidas)
+ /* DECLARAÇÕES VÁLIDAS (Corrigidos)
   * int numero$Um = 1;
     int numero1 = 1;
     int numeroum = 1;
