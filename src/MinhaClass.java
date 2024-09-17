@@ -1,6 +1,6 @@
 public class MinhaClass {
     // Corpo da classe
-    public static void main (String [] args) {
+    public static void main (String [] args) { // Método Main é responsavél por realizar a execução dos programas
         // Corpo do método
         System.out.print("Bom Dia, Meus Amigos\n"); // Comando para imprimir uma mensagem 
      
@@ -12,6 +12,7 @@ public class MinhaClass {
         final int ESTADOS_BRASILEIROS = 27;
         final int ANO_2000 = 20;
 
+        // Variavéis com as letras MAIÚSCULAS são do tipo final e o valor não pode ser alterados.
         
     }
     
