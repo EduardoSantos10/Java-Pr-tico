@@ -1,3 +1,4 @@
+package edu.eduardo.semanadois;
 public class ClassSecound {
     // Varivéis
     public static void main(String[] args) {

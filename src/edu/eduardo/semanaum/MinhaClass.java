@@ -1,3 +1,5 @@
+package edu.eduardo.semanaum;
+
 public class MinhaClass {
     // Corpo da classe
     public static void main (String [] args) { // Método Main é responsavél por realizar a execução dos programas
