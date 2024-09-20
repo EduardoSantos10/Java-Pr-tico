@@ -35,4 +35,27 @@ public class MinhaClass {
     int longo = 1;
   */
 
+  // Métodos
+  /*
+   * Devem ser nomeados como verbos, através de uma mistura de letras maiúsculas e minúsculas.
+   * Todas as letras que a compõem devem ser mantidas em minúsculo, apenas a primeira letra que é maiúscula.
+   * 
+   * Verbo = Classe gramatical que expressa, ações, estados, fenômenos naturais, desejos, conveniências ou mudança de estado.
+   * 
+   * Exemplos de Métodos:
+   * 
+   * somar(int n1, int n2)
+   * palavra no infinitivo com parâmetros de acordo com a sua prosposta
+   * 
+   * abrirConexão(){} = verbo + ação
+   * 
+   * concluirProcessamento(){} = verbo + ação
+   * 
+   * findById(int id){} = métodos em inglês
+   * 
+   * calcularImprimir(){} = método incorreto, pois possúi duas finalidades.
+   * 
+   * 
+   */
+
 

@@ -15,7 +15,7 @@ public class variaveis {
 
 /*
  * double salMedio = 1500.00 -> abreviada
- * string emails = "eduardosilva@gmail.com" -> nome da Var mostrando mais de uma usuário, estã incorreto
+ * string emails = "eduardosilva@gmail.com" -> nome da Var mostrando mais de um usuário, estã incorreto
  * string myName = "EDUARDO" -> nome da Var está em inglês e o valor em portugês.
  */
 
